@@ -1,1 +1,2 @@
-# Dispositivos_de_Alm_y_E-S
+# Dispositivos de Almacenamiento y de E/S
+Practicas de laboratorio
